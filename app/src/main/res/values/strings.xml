@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MidTerm</string>
+    <string name="app_name">Midterm Application </string>
+    <string name="title_string">Application for Midterm test</string>
 </resources>
